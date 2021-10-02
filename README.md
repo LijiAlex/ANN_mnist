@@ -1,2 +1,4 @@
 # ANN_mnist
-ANN model for mnist dataset
+ANN model for MNIST dataset
+
+
